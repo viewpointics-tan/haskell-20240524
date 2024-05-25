@@ -1,0 +1,9 @@
+{
+    // "haskell.toolchain": {
+    //     "ghc": "9.8.2",
+    //     "hls": "2.7",
+    //     "cabal": "3.10.3",
+    //     "stack": null
+    // },
+    "haskell.manageHLS": "PATH"
+}
